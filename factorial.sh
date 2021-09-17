@@ -1,3 +1,2 @@
-abdcjdn
-#&ifnv\
-keuirhfureg
+#!/bin/bash
+echo "good morning"
